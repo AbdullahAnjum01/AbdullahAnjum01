@@ -1,118 +1,145 @@
-# <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7C3AED,50:A855F7,100:C084FC&text=Abdullah%20Anjum&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0F23,30:5B21B6,70:7C3AED,100:C084FC&text=ABDULLAH%20ANJUM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Cyber+Security+Researcher;System+Programmer;Linux+Enthusiast;BSCS+Student+at+FAST+NUCES;CTF+Player;Always+Learning+Something+New"/>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Cyber+Security+Researcher;System+Programmer;Linux+Power+User;BSCS+Student+%40+FAST+NUCES;Reverse+Engineering+Enthusiast;Building+Knowledge+One+Exploit+At+A+Time"/>
 
-<img src="https://komarev.com/ghpvc/?username=AbdullahAnjum01&label=Profile+Views&color=A855F7&style=for-the-badge"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-A855F7?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AbdullahAnjum01&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20To-Collaboration-C084FC?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/AbdullahAnjum01?style=for-the-badge&color=A855F7"/>
+
+<img src="https://img.shields.io/github/stars/AbdullahAnjum01?style=for-the-badge&color=C084FC"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# ⚡ About Me
 
 ```yaml
-Name: Abdullah Anjum
-Education: BS Computer Science
-University: FAST NUCES
+name: Abdullah Anjum
 
-Focus Areas:
+education:
+  degree: BS Computer Science
+  university: FAST NUCES
+
+specialization:
   - Cyber Security
   - System Programming
   - Linux Internals
-  - Network Security
   - Assembly Language
+  - Network Security
 
-Current Goal:
-  Become a Security Engineer &
-  Low-Level Systems Developer
+currently_learning:
+  - Binary Exploitation
+  - Reverse Engineering
+  - Malware Analysis
+  - Kernel Concepts
+  - CTF Challenges
 
-Motto:
-  "Breaking problems, not systems."
+goal:
+  Build secure systems by understanding
+  how they fail internally.
+
+status: Learning Never Stops
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🧠 Philosophy
+
+> Security is not about breaking systems.
+>
+> It is about understanding systems deeply enough
+> to build them better.
+
+---
+
+# ⚔️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,js,linux,git,github,vscode,vim&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,vim,html,css,js&theme=dark"/>
 
 </div>
 
+<br>
+
+| Domain       | Stack                       |
+| ------------ | --------------------------- |
+| Low Level    | C, C++, x86 Assembly        |
+| Security     | Networking, Wireshark, CTFs |
+| Systems      | Linux, Bash, System Calls   |
+| Development  | Git, GitHub, VS Code, Vim   |
+| Fundamentals | DSA, OOP, Memory Management |
+
 ---
 
-# 🎯 Currently Exploring
+# 🚀 Current Mission
 
 ```text
-🔐 Binary Exploitation
-🐧 Linux Internals
-🌐 Network Security
-⚙️ x86 Assembly
-🏴 Capture The Flag Challenges
-🧠 Data Structures & Algorithms
+[██████████████████░░] 90%
+
+TARGET:
+Become an elite systems and security engineer.
+
+ACTIVE OBJECTIVES:
+✔ Master Linux Internals
+✔ Improve C/C++
+✔ Explore Reverse Engineering
+✔ Complete More CTFs
+◉ Build Security Projects
+◉ Contribute to Open Source
 ```
 
 ---
 
-# 🚀 Featured Projects
+# 🔥 Featured Projects
 
-## 🏧 ATM Simulator
+## 🏧 ATM Machine Simulator
 
-Assembly-language ATM simulation featuring:
+Assembly-based ATM simulation built from scratch.
 
-* Authentication system
-* Deposits & withdrawals
-* Balance management
-* Low-level memory handling
+Features:
 
-**Tech:** x86 Assembly
+* User Authentication
+* Deposits & Withdrawals
+* Balance Management
+* Memory-Level Operations
+
+Tech:
+
+```asm
+x86 Assembly
+```
 
 ---
 
 ## 🔐 Security Lab
 
-A collection of:
+Research environment dedicated to:
 
-* Security experiments
-* Network analysis
-* Vulnerability research
-* CTF practice challenges
-
-**Focus:** Ethical Learning
+* Network Analysis
+* Security Concepts
+* Vulnerability Research
+* CTF Practice
 
 ---
 
 ## ⚙️ C/C++ Forge
 
-Problem-solving and systems programming repository containing:
+Repository focused on:
 
-* DSA implementations
+* Data Structures
 * Algorithms
-* OOP concepts
-* System-level projects
+* OOP
+* System Programming
 
-**Tech:** C & C++
-
----
-
-# 🛠 Cyber Arsenal
-
-| Category    | Technologies                              |
-| ----------- | ----------------------------------------- |
-| Languages   | C, C++, Python, JavaScript                |
-| Systems     | Linux, Bash, Assembly                     |
-| Security    | Networking, Wireshark, CTFs               |
-| Development | Git, GitHub, VS Code, Vim                 |
-| Concepts    | DSA, OOP, Memory Management, System Calls |
+Built for both interview preparation and real-world engineering.
 
 ---
 
@@ -136,21 +163,21 @@ Problem-solving and systems programming repository containing:
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Radar
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAnjum01&theme=react-dark&hide_border=true&bg_color=0F0F23&color=C084FC&line=A855F7&point=FFFFFF"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAnjum01&theme=react-dark&hide_border=true&bg_color=0F0F23&color=C084FC&line=A855F7&point=FFFFFF"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievement Matrix
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbdullahAnjum01&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AbdullahAnjum01&theme=algolia&no-frame=true&column=7&margin-w=10"/>
 
 </div>
 
@@ -166,20 +193,40 @@ Problem-solving and systems programming repository containing:
 
 ---
 
-# 🌐 Connect With Me
+# 🌌 Terminal
+
+```bash
+┌──(abdullah㉿linux)-[~]
+└─$ whoami
+
+Abdullah Anjum
+
+Cyber Security Researcher
+System Programmer
+FAST NUCES Student
+
+Mission:
+Understand systems deeply.
+Build resilient software.
+Never stop learning.
+```
+
+---
+
+# 📡 Connect
 
 <div align="center">
 
 <a href="mailto:Abdullahanjum196@gmail.com">
-<img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AbdullahAnjum01">
-<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-C084FC?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -188,10 +235,8 @@ Problem-solving and systems programming repository containing:
 
 <div align="center">
 
-### 💜 Building • Learning • Breaking Problems
+### 💜 BUILD • LEARN • EXPLORE
 
-*"The quieter you become, the more you are able to hear."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:A855F7,100:C084FC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F0F23,30:5B21B6,70:7C3AED,100:C084FC"/>
 
 </div>
